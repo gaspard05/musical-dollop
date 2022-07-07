@@ -1,1 +1,3 @@
-Howto file
+Howtos file
+
+Instructions step by step
