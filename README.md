@@ -1,2 +1,2 @@
 # musical-dollop
-going deeper in Git/GitHub
+going deeper into Git/GitHub
